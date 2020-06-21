@@ -26,12 +26,17 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "C++"
+  #   tag = "C++"
+  
+  # [[content.filter_button]]
+  #   name = "Mobile Development"
+  #   tag = "develop"
   
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -56,9 +61,9 @@ subtitle = ""
   # Background color.
   # color = "navy"
   
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   Background gradient.
+   gradient_start = "#2F4F4F"
+   gradient_end = "white"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
