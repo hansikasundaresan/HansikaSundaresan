@@ -45,5 +45,6 @@ date_format = "Jan 2006"
   * Raised over $3,500 for organization through fundraising
   * Managed food distributions during Health Fairs for 1000 patients and 400 volunteers 
   * Worked on the documents to establish this 5013(c) organization
+  * Pack food bags for over 400 families every week during COVID-19
   """
 +++
