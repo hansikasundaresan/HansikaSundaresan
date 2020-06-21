@@ -62,15 +62,13 @@ email: ""
 # - Visitors
 ---
 
-Hi! I’m Hansika and I’m an aspiring computer scientist studying at the University of Texas Dallas. I am pursuing a specialization in data science and artificial intelligence. I am growing my knowledge and experience in the industry to empower other women to pursue a career in technology. 
+Hi! I’m Hansika and I’m an aspiring computer scientist studying at the [University of Texas Dallas](https://www.utdallas.edu/). I am pursuing a specialization in data science and artificial intelligence. I am growing my knowledge and experience in the industry to empower other women to pursue a career in technology. 
 
-I am a member of UTD’s Computing Scholars Program and Collegium V Honors College. In my free time, I enjoy performing South Indian Classical Dance, volunteering with Non-profit organizations, and getting involved on Campus. 
-
-
-Updates
-
-1)	Summer 2020: I am interning at Wells Fargo apart of their Technology Program
-2)	Sumer 2020: I co-found the Ladies in Tech Mentoring Program at UTD
-3)	April 2020: I earned leadership positions in Women who Compute, WEHack, and Society of Women Engineers Conference Committee
+I am a member of UTD’s [Computing Scholars Program](http://cs.utdallas.edu/computingscholars/) and [Collegium V Honors College](https://honors.utdallas.edu/cv). In my free time, I enjoy performing [South Indian Classical Dance](https://www.youtube.com/watch?v=PjbCD_Oak6o), volunteering with Non-profit organizations, and getting involved on Campus. 
 
 
+**Updates**
+
+- Summer 2020: I am interning at Wells Fargo apart of their Technology Program
+- Sumer 2020: I co-found the [Ladies in Tech Mentoring Program](https://hansikasundaresan.github.io/LadiesInTech/) at UTD
+- April 2020: I earned leadership positions in Women who Compute, WEHack, and Society of Women Engineers Conference Committee
