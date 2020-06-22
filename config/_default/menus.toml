@@ -12,16 +12,21 @@
   name = "Career"
   url = "#experience2"
   weight = 20
+  
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
 
 [[main]]
   name = "Activities"
   url = "#experience"
-  weight = 30
-
+  weight = 40
+  
 #[[main]]
  # name = "Accomplishments"
   #url = "#accomplishments"
-  #weight = 40
+  #weight = 50
 
 [[main]]
   name = "Contact"
