@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Activities"
 subtitle = ""
 
 # Date format for experience
@@ -18,19 +18,60 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Technology Intern"
-  company = "Wells Fargo"
-  company_url = ""
-  location = "Remote"
-  date_start = "2020-07-01"
-  date_end = "2020-08-01"
+  title = "Co-founder and Co-director"
+  company = "Ladies in Tech Mentoring Program"
+  company_url = "https://hansikasundaresan.github.io/LadiesInTech/"
+  location = ""
+  date_start = "2020-04-01"
+  date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Running program to include monthly events for mentors and mentees to grow
+  * Developing design, marketing, outreach, and effectiveness of program
+  * Advancing mentee's professional and personal growth
   """
+  [[experience]]
+  title = "Outreach Officer"
+  company = "Women who Compute"
+  company_url = ""
+  location = "Unviersity of Texas Dallas"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """
+  Responsibilities:
+  
+  * Collaborating with nonprofit programs and schools in DFW area to provide education resources related to coding
+  * Introduce volutneer opportunities for club members
+  * Contacting companies to create on-site tours for members
+  """
+  [[experience]]
+  title = "Industry/Treasury Officer"
+  company = "WEHack"
+  company_url = ""
+  location = "Unviersity of Texas Dallas"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """
+  Responsibilities:
+  
+  * Contacting potential partners/sponsors for hackathon
+  * Determining ideas and logistics for partner benefits
+  * Ensuring enough funds for hackathon
+  """
+  [[experience]]
+  title = "Confernece Committe Chair"
+  company = "Society of Women Engineers"
+  company_url = ""
+  location = "Unviersity of Texas Dallas"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """
+  Responsibilities:
+  
+  * Deteriming necessary budget for necessary expenses in national conference attendence
+  """
+  
 
 [[experience]]
   title = "Volunteer"
