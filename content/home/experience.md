@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   * Ensuring enough funds for hackathon
   """
   [[experience]]
-  title = "Confernece Committe Chair"
+  title = "Conference Committe Chair"
   company = "Society of Women Engineers"
   company_url = ""
   location = "Unviersity of Texas Dallas"
