@@ -11,7 +11,7 @@ tags = ["Flutter", "Dart", "Cross-device Mobile App", "Development"]
 summary = "An app that aims to reduce food waste and increase cooking creativity"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "page1.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -31,14 +31,15 @@ caption = ""
 +++
 
 
-![App home page](/project/app/page1.jpg)
 _Code can be found [here](https://github.com/hansikasundaresan/RecipesOnUs)._
+![App home page](/project/app/page1.jpg)
 
 ### Idea behind App
-**Many ingredients are left over and sitting in pantries far past their expiration date. 
-This project aims to help people can reduce their food waste and create dishes the enjoy. **
+Many ingredients are left over and sitting in pantries far past their expiration date. 
+This project aims to help people can reduce their food waste and create dishes the enjoy.
 
-In this project, I worked with a friend
+In this project, I worked with a friend to create a user friendly app using flutter. In order to make the app, I did a ton of online research and tutorials to improve functionality and accesibiltiy of app features. 
 
+![App home page](/project/app/page2.jpg) ![App home page](/project/app/page7.jpg)
 
 
