@@ -11,7 +11,7 @@ tags = ["HTML", "CSS", "Javascript", "JQuery", "Web Development"]
 summary = "A cross-platform website that informs and updates students of UTD about the mentoring program."
 
 # Optional image to display on homepage.
-image_preview = "lit.jpg"
+image_preview = "lit.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
