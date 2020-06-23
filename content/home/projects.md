@@ -26,7 +26,7 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "C++"
-     tag = "C++"
+     tag = "CPlus"
   
    [[content.filter_button]]
      name = "Mobile Development"
