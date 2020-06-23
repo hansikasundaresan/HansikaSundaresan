@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Unix","Flex/Lex", "Bison", "C", "Linux", "C++"]
+tags = ["Unix","Flex/Lex", "Bison", "C", "Linux", "C++", "CPlus"]
 
 # Project summary to display on homepage.
 summary = "This project utilizes the flex lexical analyzer to examin an input file and uses bison parser package to assign input file contents, creating useful output."
