@@ -32,13 +32,14 @@ caption = ""
 
 
 _Code can be found [here](https://github.com/hansikasundaresan/RecipesOnUs)._
-![App home page](/project/app/page1.jpg)
 
 ### Idea behind App
 Many ingredients are left over and sitting in pantries far past their expiration date. 
 This project aims to help people can reduce their food waste and create dishes the enjoy.
 
 In this project, I worked with a friend to create a user friendly app using flutter. In order to make the app, I did a ton of online research and tutorials to improve functionality and accesibiltiy of app features. 
+
+![App home page](/project/app/page1.jpg)
 
 ![App pg 2](/project/app/page2.jpg) ![App page 7](/project/app/page7.jpg)
 
