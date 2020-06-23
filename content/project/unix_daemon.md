@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["C++", "Unix","Daemon", "RudeConfig", "Makefile", "TCLAP", "Linux"]
+tags = ["Unix","Daemon", "RudeConfig", "Makefile", "TCLAP", "Linux", "C++"]
 
 # Project summary to display on homepage.
 summary = "This program looks at the current directory using a daemon to see file creation, changes, deletion, etc. "
