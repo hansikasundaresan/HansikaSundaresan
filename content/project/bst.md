@@ -14,7 +14,7 @@ summary = "This project searches through the binary tree created from the words 
 image_preview = "bst.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "ii.	https://github.com/hansikasundaresan/Binary-Search-Tree"
+external_link = "https://github.com/hansikasundaresan/Binary-Search-Tree"
 
 # Does the project detail page use math formatting?
 math = true
