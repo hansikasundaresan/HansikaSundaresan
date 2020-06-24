@@ -3,6 +3,9 @@ title: Coloring Book
 summary: A 3-image coloring book coded in java
 tags:
 - Demo
+- Java
+- UI
+
 date: "2020-06-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
