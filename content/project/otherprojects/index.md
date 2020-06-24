@@ -1,6 +1,6 @@
 ---
 title: More Projects
-summary: More of my projects in multiple languages can be found at : https://github.com/hansikasundaresan
+summary: More of my projects in multiple languages can be found at https://github.com/hansikasundaresan
 
 
 tags:
