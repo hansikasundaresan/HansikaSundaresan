@@ -1,5 +1,5 @@
 ---
-title: Unix: Daemon, Inotfiy, Signal Handling
+title: Unix-Daemon, Inotfiy, Signal Handling
 summary: This program looks at the current directory using a daemon to see file creation, changes, deletion, etc.
 tags:
 - Unix
