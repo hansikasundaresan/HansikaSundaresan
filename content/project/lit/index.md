@@ -22,8 +22,8 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/hansikasundaresan/LadiesinTech
-- icon: ":globe_with_meridians:"
-  icon_pack: emoji
+- icon: globe
+  icon_pack: fas
   name: Website
   url: https://hansikasundaresan.github.io/LadiesInTech/
 url_code: ""
