@@ -19,7 +19,7 @@ links:
   url: https://github.com/hansikasundaresan/LadiesinTech
 - icon: browser
   icon_pack: fas
-  name:Website
+  name: Website
   url: https://hansikasundaresan.github.io/LadiesInTech/
 url_code: "https://github.com/hansikasundaresan/LadiesinTech"
 url_pdf: ""
