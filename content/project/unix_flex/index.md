@@ -1,5 +1,5 @@
 ---
-title: Unix: Flex, Lex, Bison
+title: Unix-Flex, Lex, Bison
 summary: This project utilizes the flex lexical analyzer to examin an input file and uses bison parser package to assign input file contents, creating useful output.
 tags:
 - Unix
