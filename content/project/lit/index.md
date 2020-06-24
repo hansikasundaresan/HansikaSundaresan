@@ -2,7 +2,12 @@
 title: Ladies in Tech Website
 summary: A cross-platform website that informs and updates students of UTD about the mentoring program.
 tags:
-- Deep Learning
+- HTML
+- CSS
+- Javascript
+- JQuery
+- Responsive Web Application
+- Development
 date: "2020-06-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -17,11 +22,11 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/hansikasundaresan/LadiesinTech
-- icon: browser
-  icon_pack: fas
+- icon: :globe_with_meridians:
+  icon_pack: emoji
   name: Website
   url: https://hansikasundaresan.github.io/LadiesInTech/
-url_code: "https://github.com/hansikasundaresan/LadiesinTech"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
