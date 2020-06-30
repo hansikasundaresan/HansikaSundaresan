@@ -1,6 +1,6 @@
 ---
 title: Assembly Language-Quine Program
-summary: This project utilized jump and link calls to create a program that prints its intructions and the memory address as the output.
+summary: This project utilized jump and link calls to create a program that prints its instructions and the memory address as the output.
 tags:
 - Demo
 - MIPS
