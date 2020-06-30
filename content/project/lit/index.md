@@ -48,3 +48,5 @@ As a co-founder and co-director of the Ladies in Tech Mentoring Program at UTD, 
 ![certificate1](/project/lit/responsivewd.jpg)
 ![certificate2](/project/lit/html.jpg)
 ![certificate3](/project/lit/css.jpg)
+![certificate4](/project/lit/javascriptcertificate.jpg)
+![certificate5](/project/lit/jquery_bootstrapcertificate.jpg)
