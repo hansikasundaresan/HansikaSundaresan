@@ -32,6 +32,19 @@ date_format = "Jan 2006"
   * Advancing mentee's professional and personal growth
   """
   [[experience]]
+  title = "Marketing Officer"
+  company = "Artificial Intelligence Society"
+  company_url = ""
+  location = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  Responsibilities:
+  
+  * Coordinating with other officers to create and develop branding of the program
+  * Improving social media presence and outreach for organization
+  """
+  [[experience]]
   title = "Outreach Officer"
   company = "Women who Compute"
   company_url = ""
@@ -60,7 +73,7 @@ date_format = "Jan 2006"
   * Ensuring enough funds for hackathon
   """
   [[experience]]
-  title = "Conference Committe Chair"
+  title = "Conference Committee Chair"
   company = "Society of Women Engineers"
   company_url = ""
   location = "Unviersity of Texas Dallas"
@@ -71,8 +84,6 @@ date_format = "Jan 2006"
   
   * Deteriming necessary budget for necessary expenses in national conference attendence
   """
-  
-
 [[experience]]
   title = "Volunteer"
   company = "U-Turn Lives"
