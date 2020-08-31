@@ -70,5 +70,5 @@ I am a member of UTD’s [Computing Scholars Program](http://cs.utdallas.edu/com
 **Updates**
 
 - Summer 2020: I am interning at Wells Fargo apart of their Technology Program
-- Summer 2020: I co-founded and co-direct the [Ladies in Tech Mentoring Program](https://utdlitmp.com) at UTD
+- Summer 2020: I co-founded and co-direct the [Ladies in Tech Mentoring Program](https://utdlitmp.github.io/LadiesInTech/) at UTD
 - April-June 2020: I earned leadership positions in Women who Compute, WEHack, Artificial Intelligence Society, and Society of Women Engineers Conference Committee
