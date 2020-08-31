@@ -43,6 +43,7 @@ date_format = "Jan 2006"
   
   * Coordinating with other officers to create and develop branding of the program
   * Improving social media presence and outreach for organization
+  * Sharing Artificial Intelligence and Machine Learning content and organization's events with UTD community
   """
   [[experience]]
   title = "Outreach Officer"
