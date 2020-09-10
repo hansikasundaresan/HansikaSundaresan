@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "AWS Cloud Pracitioner Certification"
+  company = ""
+  company_url = ""
+  location = "Remote"
+  date_start = "2020-07-01"
+  date_end = "2020-08-01"
+  description = """
+  I earned my certification in Amazon Web Services and exposed myself to cloud technology.
+  Verify my certification at http://aws.amazon.com/verification. Validation number: FN3RKH02FEE1QL5E
+  """
+
+
+[[experience]]
   title = "Technology Intern"
   company = "Wells Fargo"
   company_url = ""
