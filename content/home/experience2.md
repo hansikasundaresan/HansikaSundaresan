@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = ""
   company_url = ""
   location = "Remote"
-  date_start = "2020-07-01"
-  date_end = "2020-08-01"
+  date_start = "2020-09-08"
+  date_end = "2023-09-08"
   description = """
   I earned my certification in Amazon Web Services and exposed myself to cloud technology.
   Verify my certification at http://aws.amazon.com/verification. Validation number: FN3RKH02FEE1QL5E
